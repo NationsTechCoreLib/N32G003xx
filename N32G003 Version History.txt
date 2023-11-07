@@ -1,0 +1,21 @@
+﻿Nations.N32G003_Library.1.0.0：
+初始版本
+
+Nations.N32G003_Library.1.0.1：
+1. FLASH USER3 添加LVRRSTEN功能
+2. GPIO添加GPIO_AF8_UART2: PA9复用为UART2_RX
+3. SPI例程修改BaudRatePres和GPIO引脚
+4. 添加IAR例程
+5. UART例程修改RX GPIO模式 
+
+-------------------------------------------------------
+Nations.N32G003_Library.1.0.0：
+Initial release
+
+Nations.N32G003_Library.1.0.1：
+1. FLASH USER3 LVRRSTEN funtions modify
+2. GPIO add GPIO_AF8_UART2: PA9 as UART2_RX
+3. SPI demo modified BaudRatePres and GPIO pins
+4. Adds IAR demo
+5. UART demo modified RX GPIO mode 
+
